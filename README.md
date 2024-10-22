@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, AI, Machine Learning, and DevOps.
 - 🌱 I’m currently learning advanced machine learning techniques and cloud-based AI solutions.
 - 💞️ I’m looking to collaborate on open-source AI projects, predictive modeling, and NLP.
-- 📫 How to reach me: LinkedIn | GitHub | hemanthrathor2@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/hemanth-rathor040620/ | hemanthrathor2@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new technologies and learning about the latest AI trends while experimenting with different ML models!
 <!---
